@@ -1,2 +1,2 @@
 # Projet-BigData-M2
-Map/Reduce architecture for big data processing
+Project accomplished without version control in second year of master's degree. We was two to realize this project of which the aim was to, using a Map/Reduce architecture and Hadoop, processing huge input files containing coordinates to retrieve centroids among these points.
